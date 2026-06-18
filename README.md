@@ -84,3 +84,12 @@ A full-stack web app to track job applications during your job search.
 | notes | String? | Optional |
 | created_at | DateTime | Auto-set on create |
 | updated_at | DateTime | Auto-set on update |
+
+<img width="1881" height="815" alt="MainApplicationListView" src="https://github.com/user-attachments/assets/1c926bfb-dced-4c4d-84e3-fb8407ffbfe4" />
+
+<img width="982" height="632" alt="EditApplication" src="https://github.com/user-attachments/assets/4afa08e8-6c90-4494-9e37-69d106b673ce" />
+
+<img width="1612" height="677" alt="StatusFilter" src="https://github.com/user-attachments/assets/53b74de6-25cd-4665-9183-05ecc2efdfe6" />
+<img width="1636" height="762" alt="DeleteApplication" src="https://github.com/user-attachments/assets/b1892cad-3abe-4885-ae50-283b10275aad" />
+
+
