@@ -53,7 +53,8 @@
 		"strict": false,
 		"esModuleInterop": true,
 		"skipLibCheck": true,
-		"resolveJsonModule": true
+		"resolveJsonModule": true,
+		"sourceMap": true
 	},
 	"include": ["src/**/*"],
 	"exclude": ["node_modules", "dist", "prisma"]
