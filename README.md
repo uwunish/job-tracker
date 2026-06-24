@@ -3,9 +3,9 @@
 A full-stack web app to track job applications during your job search.
 
 ## 🔗 Live Demo
-- **Frontend:** https://your-app.vercel.app
-- **Backend API:** https://job-tracker-api.onrender.com
-- **Health Check:** https://job-tracker-api.onrender.com/health
+- **Frontend:** [https://your-app.vercel.app](https://job-tracker-5qmaq64l9-anishkoirala.vercel.app/)
+- **Backend API:** [https://job-tracker-api.onrender.com](https://job-tracker-api-9klr.onrender.com/)
+- **Health Check:** [https://job-tracker-api.onrender.com/health](https://job-tracker-api-9klr.onrender.com/health)
 
 ## ✨ Features
 - Add, edit, and delete job applications
